@@ -1,0 +1,18 @@
+My event:
+    when the screen is clicked, a cat spawns, any dudes around the cat turn into friendly dudes and follow the cat around, cats chase a fairy, if they come next to a fairy, eat the fairy then go to sleep.
+
+how to trigger the event:
+    click the screen at any valid point on the map that is not another entity.
+
+what should happen when the event is triggered:
+    when the mouse is clicked and the event is triggered, a field of flowers will spawn in a random area around the spawn location and a cat entity will spawn.
+    Any dudes in the local area will be transformed into friendly dudes that will follow the cats around. The cats will target the nearest fairy. The cat will
+    chase down the fairy until it is next to it, when it is next to the fairy, it eats it and goes to sleep.
+
+what the affected entities should do:
+    the local dude (s) will be transformed into friendly dudes that will
+    follow the cat around while it hunts down the fairy.
+
+what the new entity is and how it should behave:
+    the cat that was spawned should chase down a fairy until it gets next to it, where it will eat it and go to sleep.
+
